@@ -1,0 +1,6 @@
+{
+  "name": "GoalStream",
+  "description": "A professionally polished football news and live match updates app, featuring live stats tracking, personalized feeds, and AI-powered match summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
